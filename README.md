@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=ML+Engineer;Agentic+AI+Developer;EdTech+Innovator;Research-Driven+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=ML+Engineer;Agentic+AI+Developer;EdTech+Innovator;Research-Driven+Builder" alt="Typing SVG" />
 </div>
 
 #  Hello, I'm Swapnil  
 ###  Building PatternPrep - AI That Understands Exam Patterns | Creator of Self-Evolving AI Agents
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Swapnil565&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Swapnil565?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Swapnil565&label=Profile%20views&color=FFA500&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Swapnil565?label=Followers&style=social&color=FFD700" alt="GitHub Followers" />
 </div>
 
 ---
@@ -25,20 +25,20 @@
 ## 🛠️ Tech Stack & Skills
 
 ### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD93D?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-FFA116?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FFA800?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FFB13B?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3A3A?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-FFD43B?style=for-the-badge&logo=OpenCV&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-FFC107?style=for-the-badge&logo=langchain&logoColor=black)
 
 ### 🧰 LLMs & APIs
-![Gemini](https://img.shields.io/badge/Gemini_1.5_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek_R1-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_1.5_Pro-FFCA28?style=for-the-badge&logo=google&logoColor=black)
+![DeepSeek](https://img.shields.io/badge/DeepSeek_R1-FF9800?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==&logoColor=white)
 
 ---
 
@@ -81,12 +81,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Swapnil565&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil565&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Swapnil565&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true&title_color=FF8C00&icon_color=FF8C00"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil565&layout=compact&langs_count=8&theme=solarized-light&title_color=FF8C00"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swapnil565&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swapnil565&theme=solarized-light&ring=FFA500&fire=FFA500&currStreakLabel=FF8C00" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -104,13 +104,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/swapnil-wankhede-9aa7782a4" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-FFA116?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Swapnil565" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-FFB000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-FFCA28?style=for-the-badge&logo=gmail&logoColor=black" alt="Email">
   </a>
 </div>
 
@@ -121,5 +121,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=100&section=footer"/>
 </div>
