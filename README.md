@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Python+Developer;Computer+Vision+Expert;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=ML+Engineer;Agentic+AI+Developer;EdTech+Innovator;Research-Driven+Builder" alt="Typing SVG" />
 </div>
 
-# 👋 Hello, I'm Swapnil  
-### 🤖 AI/ML Enthusiast | 🎓 Computer Engineering Student | 🔬 Research-Oriented Developer  
+#  Hello, I'm Swapnil  
+###  Building PatternPrep - AI That Understands Exam Patterns | Creator of Self-Evolving AI Agents
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Swapnil565&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -14,10 +14,11 @@
 
 ## 🎯 About Me
 
-- 🏫 **Computer Engineering** at **Sardar Patel Institute of Technology**, Mumbai  
-- 🔬 Passionate about **AI, ML, Computer Vision**  
-- 🎥 Building **AI-powered video editing** tools and health classification systems  
-- 💡 Constantly exploring **cutting-edge tech**  
+- 🎓 **3rd Year Computer Engineering** at **Sardar Patel Institute of Technology**, Mumbai  
+- 🚀 Building **PatternPrep** - AI-powered exam strategy generator for NEET/JEE aspirants
+- 🤖 Developed **Jarvis** - A self-evolving personal assistant with complex agentic workflows
+- 🔬 Passionate about **Agentic AI** and **ML Engineering** with focus on EdTech & Healthcare
+- 💡 My strength: **Deep research** → **Scalable solutions**
 
 ---
 
@@ -33,30 +34,47 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3A3A?style=for-the-badge&logo=langchain&logoColor=white)
 
-### 🧰 Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🧰 LLMs & APIs
+![Gemini](https://img.shields.io/badge/Gemini_1.5_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek_R1-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🏥 [Health Classifier ML](https://github.com/Swapnil565/Health-Classifier-ML)
-**Advanced ML system for health condition prediction**
-- 🎯 Tech: Python, Scikit-learn, TensorFlow
-- 📊 Multi-class classification, Feature engineering, Optimization
-- 🏆 Achieved **95%+ accuracy**
+### 📚 [PatternPrep](https://github.com/Swapnil565/PatternPrep) *(In Production)*
+**AI-Powered Exam Strategy Generator for NEET/JEE**
+- 🎯 **Tech Stack**: Python, Gemini 1.5 Pro, DeepSeek-R1, OCR
+- 🚀 **Features**:
+  - Converts PDF question papers into actionable study strategies
+  - Pattern recognition engine identifies recurring question types
+  - Generates time-saving tricks and mistake avoidance checklists
+  - Dynamic batch processing (1 to 1000+ questions)
+  - Detailed markdown reports with study plans
+- 🏆 **Impact**: Currently being evaluated by NEET/JEE students
+
+### 🤖 [Jarvis - Self-Evolving AI Assistant](https://github.com/Swapnil565/jarvis-ai)
+**Personal AI that grows with you through conversations**
+- 🎯 **Tech Stack**: Python, LangChain, Graph-based Architecture
+- 🧠 **Innovation**: Complex agentic workflow using line graphs
+- 💡 **Key Feature**: Hyper-personalization through continuous learning
+- 🔮 **Vision**: An AI assistant that truly understands its user over time
 
 ### 🎬 [VideoLab Pro](https://github.com/Swapnil565/videolab-pro)
 **AI-powered video editing toolkit**
-- 🎯 Tech: Python, OpenCV, ElevenLabs API, PIL
-- 🚀 Features: Smart captions, Overlays, Emotion-based transcription
-- 💡 Modular AI pipeline
+- 🎯 **Tech Stack**: Python, OpenCV, ElevenLabs API, PIL
+- 🚀 **Features**: Smart captions, Overlays, Emotion-based transcription
+- 💡 **Architecture**: Modular AI pipeline for video processing
+
+---
+
+## 💼 What I'm Looking For
+
+- 🎯 **Target Roles**: ML Engineer, Agentic AI Engineer
+- 🏢 **Industries**: EdTech, Healthcare AI
+- 💡 **My Differentiator**: I don't just implement solutions - I research deeply to understand problems and build scalable, robust systems
 
 ---
 
@@ -73,19 +91,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Current Focus
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Swapnil565&theme=onedark&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swapnil565&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
+- 🔨 Launching **PatternPrep** for real users
+- 📖 Deep diving into **Agentic AI architectures**
+- 🧠 Exploring **LLM fine-tuning** for domain-specific applications
+- 🤝 Open to collaborate on **EdTech AI** projects
 
 ---
 
@@ -98,12 +109,15 @@
   <a href="https://github.com/Swapnil565" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <i>💼 Open to collaborations and exciting opportunities in AI/ML!</i>
+  <i>🚀 "Building AI that doesn't just solve problems, but understands them deeply"</i>
 </div>
 
 <div align="center">
