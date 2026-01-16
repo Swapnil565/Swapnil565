@@ -1,101 +1,119 @@
-Swapnil Wankhede
+<div align="center">
 
-I build production-grade AI systems focused on reliability, cost, and performance.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:020617&height=120&section=header&text=Swapnil%20Wankhede&fontSize=42&fontColor=ffffff&fontAlignY=60&desc=ML%20Engineer%20%7C%20Production%20AI%20Systems&descAlignY=85&descSize=16" />
 
-Currently: ML Engineer @ Zentra Labs | CS @ SPIT Mumbai (2027)
-Core work: RAG systems, multi-agent pipelines, production ML infrastructure
+</div>
 
-Selected Work
-FloatChat — Multi-agent analytical system
+---
 
-Problem: Oceanographic data queries were slow, unreliable, and expensive.
-What I built: Multi-agent consensus system + physics validation + template-first SQL engine.
-Result:
+# Hi, I’m Swapnil Wankhede
 
-3× reliability improvement
+I build **production-grade AI systems** focused on **reliability, cost, and performance**.
 
-80% of queries under 10ms
+**Currently:** ML Engineer @ Zentra Labs · CS @ SPIT Mumbai (2027)  
+**Core work:** RAG systems, multi-agent pipelines, production ML infrastructure
 
-Deployed in production
+---
 
-Repo: https://github.com/Swapnil565/floatchat
+## Selected Work
 
-ProductionRAG — Multi-strategy retrieval system
+---
 
-Problem: Single-strategy RAG had poor recall and high token cost.
-What I built: Parallel retrieval (dense + lexical + hybrid) + RRF + reranking pipeline.
-Result:
+### FloatChat — Multi-agent analytical system
 
-30% cost reduction
+**Problem**  
+Oceanographic data queries were slow, unreliable, and expensive.
 
-35% recall improvement
+**What I built**  
+Multi-agent consensus system + physics validation + template-first SQL engine.
 
-0.803 answer similarity on HotpotQA
+**Result**
+- 3× reliability improvement  
+- 80% of queries under 10ms  
+- Deployed in production  
 
-Repo: https://github.com/Swapnil565/productionrag
+🔗 Repo: https://github.com/Swapnil565/floatchat
 
-PatternPrep — Exam pattern intelligence system (Founder)
+---
 
-Problem: Students solve questions blindly without understanding exam patterns.
-What I’m building: System that analyzes past papers, extracts patterns, and optimizes preparation strategy.
-Status: In active development
+### ProductionRAG — Multi-strategy retrieval system
 
-What I Work On
+**Problem**  
+Single-strategy RAG had poor recall and high token cost.
 
-Production RAG systems
+**What I built**  
+Parallel retrieval (dense + lexical + hybrid) + RRF + reranking pipeline.
 
-Multi-agent orchestration and evaluation
+**Result**
+- 30% cost reduction  
+- 35% recall improvement  
+- 0.803 answer similarity on HotpotQA  
 
-Cost and latency optimization
+🔗 Repo: https://github.com/Swapnil565/productionrag
 
-Turning research ideas into deployable systems
+---
 
-Tech Stack
+### PatternPrep — Exam pattern intelligence system (Founder)
 
-Python, FastAPI, PostgreSQL, Redis, Docker, PyTorch, LangChain, Chroma/Qdrant, Celery
+**Problem**  
+Students prepare blindly without understanding exam patterns.
 
-Experience
+**What I’m building**  
+A system that analyzes past papers, extracts patterns, and optimizes preparation strategy.
 
-ML Engineer @ Zentra Labs — building production AI systems
+**Status**  
+In active development
 
-Computer Science @ SPIT Mumbai — Class of 2027
+---
 
-Focus Areas (2025–2026)
+## What I Work On
 
-AI security & adversarial ML
+- Production RAG systems  
+- Multi-agent orchestration and evaluation  
+- Cost and latency optimization  
+- Turning research ideas into deployable systems  
 
-Robustness of LLM systems
+---
 
-Agent reliability and evaluation
+## Tech Stack
 
-Production-grade ML system design
+**Python, FastAPI, PostgreSQL, Redis, Docker, PyTorch, LangChain, Chroma/Qdrant, Celery**
 
-Philosophy
+---
 
-I optimize for systems that survive production, not demos.
+## Experience
 
-Contact
+- **ML Engineer @ Zentra Labs** — building production AI systems  
+- **Computer Science @ SPIT Mumbai** — Class of 2027  
 
-LinkedIn: https://www.linkedin.com/in/swapnil-wankhede-9aa7782a4
+---
 
-GitHub: https://github.com/Swapnil565
+## Focus Areas (2025–2026)
 
-Email: (add your email here)
+- AI security & adversarial ML  
+- Robustness of LLM systems  
+- Agent reliability and evaluation  
+- Production-grade ML system design  
 
-🧠 Why this README is 10x better than your old one
+---
 
-No noise
+## Philosophy
 
-No fake complexity
+> I optimize for systems that survive production, not demos.
 
-No UI tricks
+---
 
-Only proof, results, and clarity
+## Contact
 
-This now reads like:
+- LinkedIn: https://www.linkedin.com/in/swapnil-wankhede-9aa7782a4  
+- GitHub: https://github.com/Swapnil565  
+- Email: swapnil.wankhede23@spit.ac.in
 
-“This guy ships real systems.”
 
-Not:
+---
 
-“This guy likes AI.”
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=90&section=footer&text=Building%20systems%20that%20ship.&fontSize=18&fontColor=ffffff&fontAlignY=60" />
+
+</div>
