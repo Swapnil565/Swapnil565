@@ -10,7 +10,7 @@
 
 I build **production-grade AI systems** focused on **reliability, cost, and performance**.
 
-**Currently:** ML Engineer @ Zentra Labs · CS @ SPIT Mumbai (2027)  
+**Currently:** SDE AI INTERN @ Zentra Labs · CS @ SPIT Mumbai (2027)  
 **Core work:** RAG systems, multi-agent pipelines, production ML infrastructure
 
 ---
@@ -83,7 +83,7 @@ In active development
 
 ## Experience
 
-- **ML Engineer @ Zentra Labs** — building production AI systems  
+- **SDE AI INTERN @ Zentra Labs** — building production AI systems  
 - **Computer Science @ SPIT Mumbai** — Class of 2027  
 
 ---
